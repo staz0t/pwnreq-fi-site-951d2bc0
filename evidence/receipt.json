@@ -4,21 +4,21 @@
   "control_and_attack_same_url": true,
   "control_expected_sha256": "9d7287311714a948aea439d5470dc5b479087c47edfcd77008a06e368c0aaaa5",
   "control_integrity_forwarded": true,
-  "control_observed_sha256": "9d7287311714a948aea439d5470dc5b479087c47edfcd77008a06e368c0aaaa5",
-  "control_result": "ACCEPTED_REVIEWED_ARCHIVE",
-  "documentation_marker": "BCR_FRONTEND_REVIEWED",
-  "documentation_protobuf_sha256": "93f9f3673009a70117dafb97bacd163cbd41f2d5a4bc8f53ddb7a5eae88081e4",
-  "downloaded_sha256": "9d7287311714a948aea439d5470dc5b479087c47edfcd77008a06e368c0aaaa5",
+  "control_observed_sha256": "e131b49c85e3dc6f168581e9b45be7712e55b993a7e46b3fa9cfb7c508009b01",
+  "control_result": "REJECTED_REPLACEMENT",
+  "documentation_marker": "BCR_FRONTEND_UNREVIEWED",
+  "documentation_protobuf_sha256": "c97d5a813a5303febf219704cf3b1f3055bf52f039836a1b00bfcd2a4d3c7a3e",
+  "downloaded_sha256": "e131b49c85e3dc6f168581e9b45be7712e55b993a7e46b3fa9cfb7c508009b01",
   "frontend_sha": "c7a1a2ca5c6eadb06120d8b4019def8e594e3732",
-  "registry_commit": "ba192aed9fe28d297fe227e8b9de90341d33654e",
+  "registry_commit": "420d01eeea1c39c78deb54a3cc8799b3f25f1ff4",
   "release_member_byte_identical": true,
-  "release_tar_sha256": "a960780dcf9418d0748a7072526f8c57ecc464d8a9a6f51eabcfefbb83b34a9b",
+  "release_tar_sha256": "8b6bb1c11be1d3121a18b81bbbcba9672019310a8dbae536fa309239c800479f",
   "result": "PASS",
   "reviewed_sha256": "9d7287311714a948aea439d5470dc5b479087c47edfcd77008a06e368c0aaaa5",
   "semantic_readback": [
     "module=\"\" version=\"\" source=BEST_EFFORT",
-    "file=\"proof.bzl\" description=\"BCR_FRONTEND_REVIEWED_MODULE_DOCSTRING\"",
-    "symbol=\"proof\" description=\"BCR_FRONTEND_REVIEWED_FUNCTION_DOCSTRING\""
+    "file=\"proof.bzl\" description=\"BCR_FRONTEND_UNREVIEWED_MODULE_DOCSTRING\"",
+    "symbol=\"proof\" description=\"BCR_FRONTEND_UNREVIEWED_FUNCTION_DOCSTRING\""
   ],
   "source_url": "https://github.com/arnodorian1337/pwnreq-fi-source-951d2bc0/releases/download/v1.0.0/proof-1.0.0.tar.gz"
 }

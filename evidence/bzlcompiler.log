@@ -8,3 +8,11 @@ bzlcompiler: 2026/11/14 19:00:54 Server ready
 bzlcompiler: 2026/11/14 19:00:55 Extraction: 1/1 100.0%
 bzlcompiler: 2026/11/14 19:00:55 Completed in 278.84973ms
 bzlcompiler: 2026/11/14 19:00:55 Shutting down server process...
+bzlcompiler: 2026/11/14 19:03:29 Starting server: /usr/bin/java -jar /home/runner/work/pwnreq-fi-site-951d2bc0/pwnreq-fi-site-951d2bc0/constellate-server.jar --log_level=FINE --listen_port=43221
+bzlcompiler: 2026/11/14 19:03:29 Server logs: /home/runner/work/pwnreq-fi-site-951d2bc0/pwnreq-fi-site-951d2bc0/evidence/bzlcompiler.log.server.log
+bzlcompiler: 2026/11/14 19:03:29 Waiting for server to be ready...
+bzlcompiler: 2026/11/14 19:03:30 Server ready after 7 attempts
+bzlcompiler: 2026/11/14 19:03:30 Server ready
+bzlcompiler: 2026/11/14 19:03:31 Extraction: 1/1 100.0%
+bzlcompiler: 2026/11/14 19:03:31 Completed in 320.288888ms
+bzlcompiler: 2026/11/14 19:03:31 Shutting down server process...

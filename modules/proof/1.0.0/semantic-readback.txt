@@ -1,3 +1,3 @@
 module="" version="" source=BEST_EFFORT
-file="proof.bzl" description="BCR_FRONTEND_REVIEWED_MODULE_DOCSTRING"
-symbol="proof" description="BCR_FRONTEND_REVIEWED_FUNCTION_DOCSTRING"
+file="proof.bzl" description="BCR_FRONTEND_UNREVIEWED_MODULE_DOCSTRING"
+symbol="proof" description="BCR_FRONTEND_UNREVIEWED_FUNCTION_DOCSTRING"
